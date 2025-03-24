@@ -52,7 +52,7 @@ Month | Payment  | Interest  | Principal  | Remaining Balance
 This project is licensed under the **MIT License**.
 
 ## Author
-[Kenneth Tebogo Khondowe] - Created for educational purposes.
+[Kenneth Tebogo Khondowe]- Created for educational purposes.
 
 ---
 Feel free to modify and enhance this program! 🚀
